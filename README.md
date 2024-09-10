@@ -1,0 +1,1 @@
+Loyiha haqida ma'lumot
