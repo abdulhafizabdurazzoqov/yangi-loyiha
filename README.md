@@ -7,4 +7,9 @@ git push - kompyutrimizdagi loyihamizga kiritgan o'zgartirishlarni githup'ga yuk
 git remote add origin LINK
 git branch -M main
 git push -u origin main
+<<<<<<< HEAD
 git pull - githubdagi yangi o'zgarishlarni qabul qilib olish uchun
+=======
+
+git pull - Githup'dagi yangi o'zgarishlarni yuklab olish uchun
+>>>>>>> 5c34e63d6881375c80d314df71fb44a9375af513
